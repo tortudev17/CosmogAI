@@ -1,0 +1,6 @@
+.build/
+.build-linux/
+Artifacts/
+.swiftpm/
+__pycache__/
+.ipynb_checkpoints/
